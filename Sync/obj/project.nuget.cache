@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GEAQnaOGYR8=",
+  "dgSpecHash": "5GRXfMlK20E=",
   "success": true,
   "projectFilePath": "C:\\projects\\Sync\\Sync\\Sync.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\10710\\.nuget\\packages\\system.commandline\\2.0.12\\system.commandline.2.0.12.nupkg.sha512",
+    "C:\\Users\\10710\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.2\\system.diagnostics.eventlog.9.0.2.nupkg.sha512",
+    "C:\\Users\\10710\\.nuget\\packages\\taskscheduler\\2.12.2\\taskscheduler.2.12.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,5 +1,7 @@
 public class LCS{
     /// <summary>
+    /// NOT TODO
+    /// unfinished
     /// Modified version of the Longest Common Subsequence (LCS) algorithm
     /// https://algomaster.io/learn/dsa/longest-common-subsequence
     /// It returns how text1 transformed from text2
@@ -23,8 +25,10 @@ public class LCS{
         }
 
         //reconstruct the differences
+        //could probably split this up if another dp table generation algorithm would come up 
         var differences = new List<FileDifference>();
-        //TODO
+
+        //NOT TODO 
 
 
         return differences;

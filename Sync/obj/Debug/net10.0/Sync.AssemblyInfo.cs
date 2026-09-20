@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f76865a5112cd69dd169bf6f80ed7e4c995274da")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f97428a54c3763c60199b937ff5a50ecd49009a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
